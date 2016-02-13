@@ -6,6 +6,6 @@ DISCLAIMER These scripts are for use with your IPs or IPs you have premission to
 
 Tested on
 
-Debian Based OS's
-RHEL Based OS's
-FreeBSD
+- Debian Based OS's
+- RHEL Based OS's
+- FreeBSD
