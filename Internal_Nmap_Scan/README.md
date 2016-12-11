@@ -5,6 +5,7 @@ GEM required
  - tlsmail
  - gem install gmail_sender tlsmail
 
+Script Changes
  - At the bottom of the internal.rb you will see the SMTP settings. Make sure you update them with your relevent info
 
  - In internal.rb you will need to change the home directory (Line 13)
