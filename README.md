@@ -10,3 +10,9 @@ Tested on
 - RHEL Based OS's
 - FreeBSD
 - OS X
+
+Email Tested
+
+- Gmail
+- Zoho
+- Office 365
